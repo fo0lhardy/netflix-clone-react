@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/fo0lhardy.github.io/netflix-clone-react/static/css/main.f779e001.css",
+    "main.js": "/fo0lhardy.github.io/netflix-clone-react/static/js/main.0838a87b.js",
+    "static/media/home.jpg": "/fo0lhardy.github.io/netflix-clone-react/static/media/home.d5e8ba530a4f7f5ff552.jpg",
+    "static/media/login.jpg": "/fo0lhardy.github.io/netflix-clone-react/static/media/login.1a5678025d58f1a441b8.jpg",
+    "static/media/video.mp4": "/fo0lhardy.github.io/netflix-clone-react/static/media/video.3d49b1f374645c820c79.mp4",
+    "static/media/logo.png": "/fo0lhardy.github.io/netflix-clone-react/static/media/logo.f4070143e1f521da82a1.png",
+    "static/media/homeTitle.webp": "/fo0lhardy.github.io/netflix-clone-react/static/media/homeTitle.4c03814dda5512dd68ea.webp",
+    "index.html": "/fo0lhardy.github.io/netflix-clone-react/index.html",
+    "main.f779e001.css.map": "/fo0lhardy.github.io/netflix-clone-react/static/css/main.f779e001.css.map",
+    "main.0838a87b.js.map": "/fo0lhardy.github.io/netflix-clone-react/static/js/main.0838a87b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f779e001.css",
+    "static/js/main.0838a87b.js"
+  ]
+}
